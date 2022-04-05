@@ -1,4 +1,4 @@
-// sizeof the data types are:
+// sizeof is a keyword in C, it is used to find the size of a variable.
 // int = 4 bytes
 // float = 4 bytes
 // char = 1 byte
